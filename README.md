@@ -12,15 +12,26 @@ This Excel project explores an Amazon product dataset to uncover insights into p
 ## 📁 Files Included
 `Amazon case study.xlsx` including the pivot tables, charts, and dashboards.
 
-## 🔍 Key Insights
+## 🔍 Key Insights, Findings & Interpretation
 
-- 💸 **Average discount % by category**
-- 📦 **Number of products per category**
-- ⭐ **Top 5 products by rating × number of reviews**
-- 🧮 **Total number of reviews by category**
-- 📉 **Rating vs Discount scatter plot**
-- 🪙 **Total Potential revenue = actual_price × review_count**
-- 📊 **Price bucket distribution (<₹200, ₹200–₹500, >₹500)**
+### 💸 Discount Behavior by Category
+- Categories like accessories and peripherals offer **higher discounts**, suggesting strong competition or markdown strategies.
+- High-discount categories often correlate with **lower ratings**, possibly due to quality concerns.
+
+### 📈 Rating vs Discount Relationship
+- **No strong correlation** found between high discounts and high ratings.
+- Indicates that **price cuts don't guarantee customer satisfaction** — product quality plays a bigger role.
+
+### 🥇 Top-Performing Products
+- Top 5 products were selected based on **high average rating and high number of reviews**.
+- These products are ideal for marketing and cross-selling.
+
+### 📦 Category Volume & Engagement
+- Some categories have **review activity**, showing where demand and engagement are concentrated.
+
+### 💰 Potential Revenue Estimation
+- Total revenue estimated via `actual_price × rating_count`.
+- A small group of products contribute disproportionately to potential revenue.
 
 ## 📊 Dashboard Features
 
@@ -35,8 +46,8 @@ This Excel project explores an Amazon product dataset to uncover insights into p
 - **Microsoft Excel**
   - Pivot Tables
   - Pivot Charts
-  - Formulas (`AVERAGE`, `COUNTIF`, `IF`, etc.)
-- Excel Design Formatting for layout & visualization
+  - Formulas (`AVERAGE`, `IF`, etc.)
+- Excel Formatting for layout & visualization
 
 ## 📷 Screenshots
 
