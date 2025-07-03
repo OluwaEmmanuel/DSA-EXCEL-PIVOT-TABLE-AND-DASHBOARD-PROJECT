@@ -40,4 +40,8 @@ This Excel project explores an Amazon product dataset to uncover insights into p
 
 ## 📷 Screenshots
 
+  - Chart 1
 ![Chart 1](https://github.com/user-attachments/assets/245de75b-85ef-4e0c-827b-e612177a2274)
+
+  - Chart 2
+![Chart 2](https://github.com/user-attachments/assets/bb165c0f-3417-470c-af1c-6f46b10e33aa)
