@@ -9,7 +9,7 @@ This Excel project explores an Amazon product dataset to uncover insights into p
 - Understand review trends and rating distributions
 - Present findings in a dynamic Excel dashboard
 
-## 📁 Files Included
+## 📁 File Included
 `Amazon case study.xlsx` including the pivot tables, charts, and dashboards.
 
 ## 🔍 Key Insights, Findings & Interpretation
